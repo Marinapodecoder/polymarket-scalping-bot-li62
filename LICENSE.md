@@ -1,4 +1,4 @@
-# 
+# Polymarket exclusive Automation Script: sentiment-analysis & multi-exchange-support offers the most advanced Polymarket automation-script, with sentiment-analysis and
 
 
 
